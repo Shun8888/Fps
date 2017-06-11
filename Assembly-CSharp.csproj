@@ -47,6 +47,7 @@
   <ItemGroup>
      <Compile Include="Assets\EnemyGeneSc.cs" />
      <Compile Include="Assets\Enemysc.cs" />
+     <Compile Include="Assets\GrenadeSc.cs" />
      <Compile Include="Assets\Playersc.cs" />
      <Compile Include="Assets\ScoreSc.cs" />
      <None Include="Assets\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Simple.shader" />

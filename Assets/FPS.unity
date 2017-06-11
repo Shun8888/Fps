@@ -207,9 +207,9 @@ GameObject:
   - 114: {fileID: 312244924}
   - 54: {fileID: 312244923}
   - 82: {fileID: 312244922}
-  - 114: {fileID: 312244921}
   - 136: {fileID: 312244927}
   - 82: {fileID: 312244928}
+  - 114: {fileID: 312244921}
   m_Layer: 0
   m_Name: FPSController
   m_TagString: Untagged
@@ -220,9 +220,8 @@ GameObject:
 --- !u!114 &312244921
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114000013701182114, guid: 544d58135a61be648bb77c6cfccab816,
-    type: 2}
-  m_PrefabInternal: {fileID: 619408462}
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 312244920}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -231,6 +230,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   camera: {fileID: 1497533065}
   Gunsound: {fileID: 312244928}
+  prefab_bom: {fileID: 1000012020561128, guid: c87b32867c1244849bab6838c274beab, type: 2}
 --- !u!82 &312244922
 AudioSource:
   m_ObjectHideFlags: 0
@@ -592,7 +592,8 @@ Prefab:
       propertyPath: m_PlayOnAwake
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 0}
   m_ParentPrefab: {fileID: 100100000, guid: 544d58135a61be648bb77c6cfccab816, type: 2}
   m_IsPrefabParent: 0
 --- !u!1 &649569015
