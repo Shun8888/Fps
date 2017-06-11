@@ -19,3 +19,24 @@ C:\Users\cocos\OneDrive\デスクトップ\New Unity Project\FPS\Temp\bin\Debug\
 C:\Users\cocos\OneDrive\デスクトップ\New Unity Project\FPS\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
 C:\Users\cocos\OneDrive\デスクトップ\New Unity Project\FPS\obj\Debug\Assembly-CSharp-firstpass.dll
 C:\Users\cocos\OneDrive\デスクトップ\New Unity Project\FPS\obj\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\cocos\Desktop\FPS\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\cocos\Desktop\FPS\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\cocos\Desktop\FPS\Temp\bin\Debug\UnityEditor.dll
+C:\Users\cocos\Desktop\FPS\Temp\bin\Debug\UnityEngine.dll
+C:\Users\cocos\Desktop\FPS\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\cocos\Desktop\FPS\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\cocos\Desktop\FPS\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\cocos\Desktop\FPS\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\cocos\Desktop\FPS\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\cocos\Desktop\FPS\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\cocos\Desktop\FPS\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\cocos\Desktop\FPS\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\cocos\Desktop\FPS\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\cocos\Desktop\FPS\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\cocos\Desktop\FPS\Temp\bin\Debug\UnityEngine.xml
+C:\Users\cocos\Desktop\FPS\Temp\bin\Debug\UnityEditor.xml
+C:\Users\cocos\Desktop\FPS\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\cocos\Desktop\FPS\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\cocos\Desktop\FPS\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\cocos\Desktop\FPS\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\cocos\Desktop\FPS\obj\Debug\Assembly-CSharp-firstpass.pdb
