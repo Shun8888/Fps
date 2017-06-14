@@ -1,24 +1,26 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class Playersc : MonoBehaviour {
 
 	public Camera camera;
 	public AudioSource Gunsound;
 	public GameObject prefab_bom;
-
-
-	int playerHP = 10;
+	public int playerHP;
+	public Text HPLabel;
+   
 
 	// Use this for initialization
 	void Start () {
 		Screen.lockCursor = true;
-	
 	}
 
 	
 	// Update is called once per frame
 	void Update () {
+		HPLabel.text = "PlayerHP:" + playerHP.ToString ();
 		if (Input.GetMouseButtonDown (0)) {
 			Shot ();
 			Gunsound.Play ();
@@ -27,12 +29,17 @@ public class Playersc : MonoBehaviour {
 		if(Input.GetMouseButtonDown(1))
 			{
 				BomDamage();
+
+
 			}
 
 	}
 	void PlayerDamage(){
-		playerHP -= 1;
+		playerHP -=1;
 		Debug.Log (playerHP);
+		if (playerHP <= 0) {
+			SceneManager.LoadScene ("GameOver");
+		}
 	}
 
 
